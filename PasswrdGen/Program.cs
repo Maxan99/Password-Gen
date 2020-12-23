@@ -1,5 +1,4 @@
 ﻿using System;
-using System.IO;
 namespace C_
 {
     class Program
@@ -30,8 +29,8 @@ namespace C_
                 }
         } while(!input.Equals(currPasswrd));
         }
-        static void PrintArrayElements(char[] array){
-        foreach(char element in array){
+        static void PrintArrayElements(char[] chrArray){
+        foreach(char element in chrArray){
             Console.Write(element);
         }
         Console.WriteLine();
@@ -45,4 +44,3 @@ namespace C_
     }
     }
 }
-
