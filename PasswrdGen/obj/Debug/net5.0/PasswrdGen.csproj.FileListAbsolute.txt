@@ -1,0 +1,16 @@
+D:\Programs\Others\Projects\C#\PasswrdGen\bin\Debug\net5.0\PasswrdGen.exe
+D:\Programs\Others\Projects\C#\PasswrdGen\bin\Debug\net5.0\PasswrdGen.deps.json
+D:\Programs\Others\Projects\C#\PasswrdGen\bin\Debug\net5.0\PasswrdGen.runtimeconfig.json
+D:\Programs\Others\Projects\C#\PasswrdGen\bin\Debug\net5.0\PasswrdGen.runtimeconfig.dev.json
+D:\Programs\Others\Projects\C#\PasswrdGen\bin\Debug\net5.0\PasswrdGen.dll
+D:\Programs\Others\Projects\C#\PasswrdGen\bin\Debug\net5.0\ref\PasswrdGen.dll
+D:\Programs\Others\Projects\C#\PasswrdGen\bin\Debug\net5.0\PasswrdGen.pdb
+D:\Programs\Others\Projects\C#\PasswrdGen\obj\Debug\net5.0\PasswrdGen.csprojAssemblyReference.cache
+D:\Programs\Others\Projects\C#\PasswrdGen\obj\Debug\net5.0\PasswrdGen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Others\Projects\C#\PasswrdGen\obj\Debug\net5.0\PasswrdGen.AssemblyInfoInputs.cache
+D:\Programs\Others\Projects\C#\PasswrdGen\obj\Debug\net5.0\PasswrdGen.AssemblyInfo.cs
+D:\Programs\Others\Projects\C#\PasswrdGen\obj\Debug\net5.0\PasswrdGen.csproj.CoreCompileInputs.cache
+D:\Programs\Others\Projects\C#\PasswrdGen\obj\Debug\net5.0\PasswrdGen.dll
+D:\Programs\Others\Projects\C#\PasswrdGen\obj\Debug\net5.0\ref\PasswrdGen.dll
+D:\Programs\Others\Projects\C#\PasswrdGen\obj\Debug\net5.0\PasswrdGen.pdb
+D:\Programs\Others\Projects\C#\PasswrdGen\obj\Debug\net5.0\PasswrdGen.genruntimeconfig.cache
